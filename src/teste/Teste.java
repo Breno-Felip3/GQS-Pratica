@@ -1,5 +1,9 @@
 package teste;
-
 public class Teste {
-
+	public static void main(String[] args) {
+		int num1 = 3, num2 = 10, soma;
+		soma = num1 + num2;
+		
+		System.out.println(soma);
+	}
 }
