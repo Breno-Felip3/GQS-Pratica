@@ -1,4 +1,4 @@
-package Pratica6;
+package Pratica_6;
 import javax.swing.JOptionPane;
 public class Atividade4 {
 	public static void main(String[] args) {
